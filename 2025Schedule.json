@@ -1,0 +1,2413 @@
+{
+    "reg_season": [
+        {
+            "week": 1,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, SEPTEMBER 4TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Eagles",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "FRIDAY, SEPTEMBER 5TH",
+                    "time": "6:00 PM MDT",
+                    "channel": "YouTube",
+                    "home": "Chargers",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Falcons",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Browns",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Colts",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Jaguars",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Patriots",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Saints",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Jets",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Commanders",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "FOX",
+                    "home": "Broncos",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "FOX",
+                    "home": "Seahawks",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Packers",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Rams",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 7TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Bills",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, SEPTEMBER 8TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "ESPN, ABC",
+                    "home": "Bears",
+                    "away": "Vikings"
+                }
+            ],
+            "tbd_games": [],
+            "byes": []
+        },
+        {
+            "week": 2,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, SEPTEMBER 11TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Packers",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Ravens",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Bengals",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Cowboys",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Lions",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Dolphins",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Saints",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Jets",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Steelers",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Cardinals",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Colts",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "Chiefs",
+                    "away": "Eagles"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 14TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Vikings",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, SEPTEMBER 15TH",
+                    "time": "5:00 PM MDT",
+                    "channel": "ESPN, ABC",
+                    "home": "Texans",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, SEPTEMBER 15TH",
+                    "time": "8:00 PM MDT",
+                    "channel": "ESPN",
+                    "home": "Raiders",
+                    "away": "Chargers"
+                }
+            ],
+            "tbd_games": [],
+            "byes": []
+        },
+        {
+            "week": 3,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, SEPTEMBER 18TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Bills",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Browns",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Jaguars",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Vikings",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Patriots",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Eagles",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Buccaneers",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Commanders",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Chargers",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Seahawks",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "Bears",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "49ers",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 21ST",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Giants",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, SEPTEMBER 22ND",
+                    "time": "6:15 PM MDT",
+                    "channel": "ESPN, ABC",
+                    "home": "Ravens",
+                    "away": "Lions"
+                }
+            ],
+            "tbd_games": [],
+            "byes": []
+        },
+        {
+            "week": 4,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, SEPTEMBER 25TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Cardinals",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "7:30 AM MDT",
+                    "channel": "NFL NETWORK",
+                    "home": "Steelers",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Falcons",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Bills",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Lions",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Texans",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Patriots",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Giants",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Buccaneers",
+                    "away": "Eagles"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "FOX",
+                    "home": "Rams",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "FOX",
+                    "home": "49ers",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Chiefs",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Raiders",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, SEPTEMBER 28TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Cowboys",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, SEPTEMBER 29TH",
+                    "time": "5:15 PM MDT",
+                    "channel": "ESPN",
+                    "home": "Dolphins",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, SEPTEMBER 29TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "ABC",
+                    "home": "Broncos",
+                    "away": "Bengals"
+                }
+            ],
+            "tbd_games": [],
+            "byes": []
+        },
+        {
+            "week": 5,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, OCTOBER 2ND",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Rams",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "7:30 AM MDT",
+                    "channel": "NFL NETWORK",
+                    "home": "Browns",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Ravens",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Colts",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Saints",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Jets",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Eagles",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Cardinals",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Seahawks",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "Bengals",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "Chargers",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 5TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Bills",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, OCTOBER 6TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "ESPN, ABC",
+                    "home": "Jaguars",
+                    "away": "Chiefs"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Falcons"
+                },
+                {
+                    "team": "Bears"
+                },
+                {
+                    "team": "Packers"
+                },
+                {
+                    "team": "Steelers"
+                }
+            ]
+        },
+        {
+            "week": 6,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, OCTOBER 9TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Giants",
+                    "away": "Eagles"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "7:30 AM MDT",
+                    "channel": "NFL NETWORK",
+                    "home": "Jets",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Ravens",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Colts",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Jaguars",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Dolphins",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Steelers",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Buccaneers",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "FOX",
+                    "home": "Raiders",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Packers",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Saints",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 12TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Chiefs",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, OCTOBER 13TH",
+                    "time": "5:15 PM MDT",
+                    "channel": "ESPN",
+                    "home": "Falcons",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, OCTOBER 13TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "ABC",
+                    "home": "Commanders",
+                    "away": "Bears"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Texans"
+                },
+                {
+                    "team": "Vikings"
+                }
+            ]
+        },
+        {
+            "week": 7,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, OCTOBER 16TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Bengals",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "7:30 AM MDT",
+                    "channel": "NFL NETWORK",
+                    "home": "Jaguars",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Bears",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Browns",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Chiefs",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Vikings",
+                    "away": "Eagles"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Jets",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Broncos",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "CBS",
+                    "home": "Chargers",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "Cardinals",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "FOX",
+                    "home": "Cowboys",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 19TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "49ers",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, OCTOBER 20TH",
+                    "time": "5:00 PM MDT",
+                    "channel": "ESPN, ABC",
+                    "home": "Lions",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, OCTOBER 20TH",
+                    "time": "8:00 PM MDT",
+                    "channel": "ESPN+",
+                    "home": "Seahawks",
+                    "away": "Texans"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Ravens"
+                },
+                {
+                    "team": "Bills"
+                }
+            ]
+        },
+        {
+            "week": 8,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, OCTOBER 23RD",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Chargers",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Falcons",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Ravens",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "CBS",
+                    "home": "Bengals",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Texans",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Patriots",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "11:00 AM MDT",
+                    "channel": "FOX",
+                    "home": "Eagles",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "2:05 PM MDT",
+                    "channel": "FOX",
+                    "home": "Saints",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Broncos",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "2:25 PM MDT",
+                    "channel": "CBS",
+                    "home": "Colts",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, OCTOBER 26TH",
+                    "time": "6:20 PM MDT",
+                    "channel": "NBC",
+                    "home": "Steelers",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, OCTOBER 27TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "ESPN, ABC",
+                    "home": "Chiefs",
+                    "away": "Commanders"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Cardinals"
+                },
+                {
+                    "team": "Lions"
+                },
+                {
+                    "team": "Jaguars"
+                },
+                {
+                    "team": "Raiders"
+                },
+                {
+                    "team": "Rams"
+                },
+                {
+                    "team": "Seahawks"
+                }
+            ]
+        },
+        {
+            "week": 9,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, OCTOBER 30TH",
+                    "time": "6:15 PM MDT",
+                    "channel": "Prime Video",
+                    "home": "Dolphins",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Bengals",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Lions",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Packers",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Texans",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Patriots",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Giants",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Steelers",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Rams",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Raiders",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Bills",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 2ND",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Commanders",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, NOVEMBER 3RD",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN, ABC",
+                    "home": "Cowboys",
+                    "away": "Cardinals"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Browns"
+                },
+                {
+                    "team": "Jets"
+                },
+                {
+                    "team": "Eagles"
+                },
+                {
+                    "team": "Buccaneers"
+                }
+            ]
+        },
+        {
+            "week": 10,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, NOVEMBER 6TH",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Broncos",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "7:30 AM MST",
+                    "channel": "NFL NETWORK",
+                    "home": "Colts",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Bears",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Texans",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Dolphins",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Vikings",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Jets",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Buccaneers",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "2:05 PM MST",
+                    "channel": "CBS",
+                    "home": "Seahawks",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "49ers",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Commanders",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 9TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Chargers",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, NOVEMBER 1OTH",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN, ABC",
+                    "home": "Packers",
+                    "away": "Eagles"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Bengals"
+                },
+                {
+                    "team": "Cowboys"
+                },
+                {
+                    "team": "Chiefs"
+                },
+                {
+                    "team": "Titans"
+                }
+            ]
+        },
+        {
+            "week": 11,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, NOVEMBER 13TH",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Patriots",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "7:30 AM MST",
+                    "channel": "NFL NETWORK",
+                    "home": "Dolphins",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Falcons",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Bills",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Jaguars",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Vikings",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Giants",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Steelers",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Titans",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Cardinals",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Rams",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Browns",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Broncos",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 16TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Eagles",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, NOVEMBER 17TH",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN, ABC",
+                    "home": "Raiders",
+                    "away": "Cowboys"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Colts"
+                },
+                {
+                    "team": "Saints"
+                }
+            ]
+        },
+        {
+            "week": 12,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, NOVEMBER 2OTH",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Texans",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Ravens",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Bears",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Bengals",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Lions",
+                    "away": "Giants"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Packers",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Chiefs",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Titans",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "2:05 PM MST",
+                    "channel": "CBS",
+                    "home": "Cardinals",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "2:05 PM MST",
+                    "channel": "CBS",
+                    "home": "Raiders",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Cowboys",
+                    "away": "Eagles"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Saints",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 23RD",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Rams",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, NOVEMBER 24TH",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN",
+                    "home": "49ers",
+                    "away": "Panthers"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Broncos"
+                },
+                {
+                    "team": "Chargers"
+                },
+                {
+                    "team": "Dolphins"
+                },
+                {
+                    "team": "Commanders"
+                }
+            ]
+        },
+        {
+            "week": 13,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, NOVEMBER 27TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Lions",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, NOVEMBER 27TH",
+                    "time": "2:30 PM MST",
+                    "channel": "CBS",
+                    "home": "Cowboys",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, NOVEMBER 27TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Ravens",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "FRIDAY, NOVEMBER 28TH",
+                    "time": "I:00 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Eagles",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Browns",
+                    "away": "49ers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Colts",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Dolphins",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Jets",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Buccaneers",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Seahawks",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Chargers",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Steelers",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, NOVEMBER 30TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Commanders",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, DECEMBER 1ST",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN",
+                    "home": "Patriots",
+                    "away": "Giants"
+                }
+            ],
+            "tbd_games": [],
+            "byes": []
+        },
+        {
+            "week": 14,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, DECEMBER 4TH",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Lions",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Falcons",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Ravens",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Browns",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Packers",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Jaguars",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Vikings",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Jets",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Buccaneers",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "2:05 PM MST",
+                    "channel": "CBS",
+                    "home": "Raiders",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Cardinals",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Bills",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 7TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Chiefs",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, DECEMBER 8TH",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN, ABC",
+                    "home": "Chargers",
+                    "away": "Eagles"
+                }
+            ],
+            "tbd_games": [],
+            "byes": [
+                {
+                    "team": "Panthers"
+                },
+                {
+                    "team": "Patriots"
+                },
+                {
+                    "team": "Giants"
+                },
+                {
+                    "team": "49ers"
+                }
+            ]
+        },
+        {
+            "week": 15,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, DECEMBER",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Buccaneers",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Bears",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Bengals",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Texans",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Jaguars",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Chiefs",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Patriots",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Giants",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Eagles",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Broncos",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Rams",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Saints",
+                    "away": "Panthers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Seahawks",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "49ers",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 14TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Cowboys",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, DECEMBER 15TH",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN",
+                    "home": "Steelers",
+                    "away": "Dolphins"
+                }
+            ],
+            "tbd_games": [],
+            "byes": []
+        },
+        {
+            "week": 16,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, DECEMBER 18TH",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Seahawks",
+                    "away": "Rams"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Ravens",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Panthers",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Browns",
+                    "away": "Bills"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Cowboys",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Saints",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Giants",
+                    "away": "Vikings"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Cardinals",
+                    "away": "Falcons"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "2:05 PM MST",
+                    "channel": "FOX",
+                    "home": "Broncos",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Lions",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "2:25 PM MST",
+                    "channel": "CBS",
+                    "home": "Texans",
+                    "away": "Raiders"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 21ST",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "Dolphins",
+                    "away": "Bengals"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, DECEMBER 22ND",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN",
+                    "home": "Colts",
+                    "away": "49ers"
+                }
+            ],
+            "tbd_games": [
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Bears",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Commanders",
+                    "away": "Eagles"
+                }
+            ],
+            "byes": []
+        },
+        {
+            "week": 17,
+            "games": [
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, DECEMBER 25TH",
+                    "time": "11:00 AM MST",
+                    "channel": "NETFLIX",
+                    "home": "Commanders",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, DECEMBER 25TH",
+                    "time": "2:30 PM MST",
+                    "channel": "NETFLIX",
+                    "home": "Vikings",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": false,
+                    "date": "THURSDAY, DECEMBER 25TH",
+                    "time": "6:15 PM MST",
+                    "channel": "Prime Video",
+                    "home": "Chiefs",
+                    "away": "Broncos"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Browns",
+                    "away": "Steelers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Colts",
+                    "away": "Jaguars"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "11:00 AM MST",
+                    "channel": "FOX",
+                    "home": "Dolphins",
+                    "away": "Buccaneers"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Jets",
+                    "away": "Patriots"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "11:00 AM MST",
+                    "channel": "CBS",
+                    "home": "Titans",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "2:25 PM MST",
+                    "channel": "FOX",
+                    "home": "Bills",
+                    "away": "Eagles"
+                },
+                {
+                    "tbd": false,
+                    "date": "SUNDAY, DECEMBER 28TH",
+                    "time": "6:20 PM MST",
+                    "channel": "NBC",
+                    "home": "49ers",
+                    "away": "Bears"
+                },
+                {
+                    "tbd": false,
+                    "date": "MONDAY, DECEMBER 29TH",
+                    "time": "6:15 PM MST",
+                    "channel": "ESPN",
+                    "home": "Falcons",
+                    "away": "Rams"
+                }
+            ],
+            "tbd_games": [
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Panthers",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Bengals",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Packers",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Chargers",
+                    "away": "Texans"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Raiders",
+                    "away": "Giants"
+                }
+            ],
+            "byes": []
+        },
+        {
+            "week": 18,
+            "games": [],
+            "tbd_games": [
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Falcons",
+                    "away": "Saints"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Bills",
+                    "away": "Jets"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Bears",
+                    "away": "Lions"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Bengals",
+                    "away": "Browns"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Broncos",
+                    "away": "Chargers"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Texans",
+                    "away": "Colts"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Jaguars",
+                    "away": "Titans"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Rams",
+                    "away": "Cardinals"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Raiders",
+                    "away": "Chiefs"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Vikings",
+                    "away": "Packers"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Patriots",
+                    "away": "Dolphins"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Giants",
+                    "away": "Cowboys"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Eagles",
+                    "away": "Commanders"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Steelers",
+                    "away": "Ravens"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "49ers",
+                    "away": "Seahawks"
+                },
+                {
+                    "tbd": true,
+                    "date": "GAMES NOT YET SCHEDULED",
+                    "time": "",
+                    "channel": "",
+                    "home": "Buccaneers",
+                    "away": "Panthers"
+                }
+            ],
+            "byes": []
+        }
+    ]
+}

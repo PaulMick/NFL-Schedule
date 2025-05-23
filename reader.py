@@ -85,6 +85,7 @@ class Reader:
             game["tbd"] = False
             game["time"] = left_text[0]
             game["channel"] = left_text[1]
+            game["time"].replace("I", "1")
 
         return game
 
